@@ -5,3 +5,4 @@
 
 # Communication site
 - [temporary-Communication-Site](http://43.136.58.73)
+- [azure site](https://mh33.azurewebsites.net/)
